@@ -337,7 +337,7 @@ box-shadow: 2px 3px 2px 0px rgba(0, 0, 0, 0.25);
          margin-left:170px;
         /* margin-top:0px; */ */
         /* margin-right: 50px; */
-    }
+    
     .article-4-content-container{
         width: 50%;
         height: 50%;
@@ -397,8 +397,7 @@ box-shadow: 2px 3px 2px 0px rgba(0, 0, 0, 0.25);
         background:linear-gradient(122deg, #2C56AA 0%, #3BB08B 100%);
         box-shadow: 2px 3px 2px 0px rgba(0, 0, 0, 0.25);
         margin-bottom:20px ;
-       margin-top:20px 
-       left: 707px;
+       margin-top:20px; 
     }
     .button-2:hover{
         color:red;
