@@ -144,7 +144,7 @@ box-shadow: 2px 3px 2px 0px rgba(0, 0, 0, 0.25);
     text-align: center;
     font-family: Roboto;
     font-size: 25px;
-    align:center;
+    
     font-style: normal;
     font-weight: 500;
     line-height: 35.16px;
@@ -271,7 +271,6 @@ box-shadow: 2px 3px 2px 0px rgba(0, 0, 0, 0.25);
         display:flex;
         flex-direction:column;
         width: 50%;
-        justify-text: center;
     }
     .article-2-heading{
         padding-bottom:10px;
@@ -403,4 +402,4 @@ box-shadow: 2px 3px 2px 0px rgba(0, 0, 0, 0.25);
         color:red;
         box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.25);
         background-color: #184655;
-    }
+    }}
